@@ -4,6 +4,8 @@ Institution: FIT BUT
 Academic year: 2021/2022  
 Course: IPK - Computer Communications and Networks  
 
+Evaluation: 20/20 points  
+
 Packet sniffer for analysing TCP, UDP, ICMP, ICMPv6 and ARP packets. These packets can be filtered using various options. The application is implemented in C++ language using the Packet Capture library ([PCAP](https://www.tcpdump.org/)).
 
 ### Build
